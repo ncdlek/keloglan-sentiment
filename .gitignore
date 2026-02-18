@@ -1,0 +1,11 @@
+# Ignore Data and Models
+data/
+models/
+venv/
+__pycache__/
+*.DS_Store
+.env
+
+# Keep benchmark data for reference
+!data/benchmark/
+!data/benchmark/keloglan_benchmark_100.csv
